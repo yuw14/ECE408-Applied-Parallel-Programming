@@ -1,4 +1,4 @@
-# ECE408/CS483 Final Project
+# ECE408/CS483
 
 ## Introduction
 
